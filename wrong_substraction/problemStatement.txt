@@ -1,0 +1,2 @@
+given a number n. if n is not divisible by 10 we have to subtract the no by 1 and if n is divisble by 10 divide the number by 10.
+and we have given k no of iteration. finally output the number after k iteration.
